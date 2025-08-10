@@ -138,5 +138,7 @@ You can customize the image generation process by passing different arguments in
   * `guidance_scale` 🧭 (float, default: 7.5)
 
       * A value that controls how much the generation process adheres to the prompt. Higher values mean the model follows the prompt more strictly, while lower values allow for more creative freedom.
+## Some Images generated
+<img width="640" height="640" alt="download" src="https://github.com/user-attachments/assets/dff04934-6d50-4b91-aabd-f6438f56a048" />
 
 -----
