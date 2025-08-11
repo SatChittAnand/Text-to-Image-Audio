@@ -139,6 +139,14 @@ You can customize the image generation process by passing different arguments in
 
       * A value that controls how much the generation process adheres to the prompt. Higher values mean the model follows the prompt more strictly, while lower values allow for more creative freedom.
 ## Some Images generated
+```python
+prompt="dreamlikeart, a grungy woman with rainbow hair, travelling between dimensions, dynamic pose, happy, soft eyes and narrow chin, extreme bokeh, dainty figure, long hair straight down, torn kawaii shirt and baggy jeans, In style of by Jordan Grimmer and greg rutkowski, crisp lines and color, complex background, particles, lines, wind, concept art, sharp focus, vivid colors"
+```
 <img width="640" height="640" alt="download" src="https://github.com/user-attachments/assets/dff04934-6d50-4b91-aabd-f6438f56a048" />
+
+```python
+prompt="A blue future-like dream bike with multiple features, soft colors, 3d, highly polished"
+```
+<img width="469" height="470" alt="download" src="https://github.com/user-attachments/assets/e466d795-dba7-4ccf-9c7f-485b6d41cd17" />
 
 -----
