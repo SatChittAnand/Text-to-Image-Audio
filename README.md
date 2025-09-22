@@ -38,7 +38,7 @@ The included Jupyter/Colab notebook (`Image_Generation_from_Text.ipynb`) demonst
 2.  **Run the cells sequentially.** ▶️ The notebook will handle:
 
       * Installing dependencies.
-      * Loading the pre-trained model onto the GPU.
+      * Loading the pre-trained model onto the GPU(Graphics Processing Unit).
       * Defining the `generate_image` helper function.
 
 3.  **To generate your own images, modify the `prompt` and `params` variables and run the cell.** ✍️
